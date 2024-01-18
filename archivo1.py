@@ -1,1 +1,1 @@
-print('hola hermosa y mamasota')
+print('hola hermosa y mamasota. Amada y querida')
